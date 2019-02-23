@@ -457,7 +457,25 @@ export default {
   }
 };
 </script>
-<style>
+<style scoped>
+.small-input {
+  width: 100px;
+}
+.middle-input {
+  width: 140px;
+}
+.normal-input {
+  width: 180px;
+}
+.small-select {
+  width: 120px;
+}
+.middle-select {
+  width: 160px;
+}
+.normal-select {
+  width: 200px;
+}
 .brand-dialog-min-width {
   min-width: 350px;
 }
