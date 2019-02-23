@@ -97,27 +97,6 @@ export default {
 }
 
 /* 子组件共用css 定义在父组件中 若定义在其中一个子组件中可能导致在其他组件重新加载无效  */
-.small-input {
-  width: 60px;
-}
-.middle-input {
-  width: 100px;
-}
-.normal-input {
-  width: 180px;
-}
-.small-select {
-  width: 80px;
-}
-.middle-select {
-  width: 120px;
-}
-.normal-select {
-  width: 200px;
-}
-.small-button {
-  width: 20px;
-}
 .add-button {
   float: right;
   padding-right: 10px;
