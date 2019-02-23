@@ -14,11 +14,11 @@ vue2 + vuex + vue-router + vue-cli + axios + element-ui + echarts
 
 ## 依赖项版本
 
-"axios": "^0.18.0",
-"echarts": "^4.1.0",
-"element-ui": "^2.5.4",
-"vue": "^2.6.6",
-"vue-router": "^3.0.1",
+"axios": "^0.18.0",  
+"echarts": "^4.1.0",  
+"element-ui": "^2.5.4",  
+"vue": "^2.6.6",  
+"vue-router": "^3.0.1",  
 "vuex": "^3.1.0"
 
 ## 功能列表
