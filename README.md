@@ -8,6 +8,12 @@
 >如果对您对此项目有兴趣，可以点 "Star" 支持一下，非常感谢！
 >也可以关注我的博客，里面记录了我在开发过程中遇到的一系列问题：https://blog.csdn.net/Dg_Zing
 
+## 测试账号（默认为账号1）
+1.用户名：admin
+  密码：123456
+2.用户名：iamvip
+  密码：888888
+
 ## 技术栈
 
 vue2 + vuex + vue-router + vue-cli + axios + element-ui + echarts
