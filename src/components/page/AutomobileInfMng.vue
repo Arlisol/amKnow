@@ -612,7 +612,25 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+.small-input {
+  width: 60px;
+}
+.middle-input {
+  width: 100px;
+}
+.normal-input {
+  width: 180px;
+}
+.small-select {
+  width: 80px;
+}
+.middle-select {
+  width: 120px;
+}
+.normal-select {
+  width: 200px;
+}
 .col-position {
   position: relative;
   right: 5px;
